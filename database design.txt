@@ -1,0 +1,20 @@
+1. users
+id, name, email, password, status
+
+2. courses
+id, name, details, img, content, status
+
+3. menu
+id, name, url, order_no, status    yesko banau
+
+4. pages
+id, name, content, status   yesko banau
+
+5. contacts
+id, name, email, message
+
+6. subscriptions
+id, email, status
+
+7. siteconfig
+id, key, value, status     yesko banau
